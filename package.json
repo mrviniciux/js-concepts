@@ -1,0 +1,17 @@
+{
+  "name": "js-concepts",
+  "version": "1.0.0",
+  "description": "A project for exploring JavaScript concepts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+      "typescript": "^4.4.3"
+    },
+    "devDependencies": {
+      "@types/node": "^16.7.13"
+    }
+}
